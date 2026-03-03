@@ -1,33 +1,97 @@
-# Jackson Chai
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/integratedai-banner-1200x300-dark.png">
+  <img alt="IntegratedAI banner" src="assets/integratedai-banner-1200x300-white.png" width="100%">
+</picture>
 
-PhD in Computer Science (Human-Computer Interaction) at NTU CCDS. I build Human-AI co-authoring systems with a focus on LLM tooling and reproducible workflows.
+<h1 align="center">Jackson Chai</h1>
 
-Links: https://integratedai.sg/ | https://www.linkedin.com/in/jackson-chai-chang-yue/
+<p align="center">
+  PhD in Computer Science (Human-Computer Interaction)<br>
+  Founder at IntegratedAI Pte. Ltd.<br>
+  Human-AI Co-Authoring • LLM Tooling • Reproducible Workflows
+</p>
+
+<p align="center">
+  <span style="display: inline-flex; gap: 24px; align-items: center;">
+    <a href="https://integratedai.sg/" target="_blank" rel="noopener noreferrer">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="assets/icons/website-dark.svg">
+        <img src="assets/icons/website.svg" alt="Website" height="18" style="vertical-align: middle;">
+      </picture>
+      <span>&nbsp;Website</span>
+    </a>
+    <a href="https://www.linkedin.com/in/jackson-chai-chang-yue/" target="_blank" rel="noopener noreferrer">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="assets/icons/brand-linkedin-dark.svg">
+        <img src="assets/icons/brand-linkedin.svg" alt="LinkedIn" height="18" style="vertical-align: middle;">
+      </picture>
+      <span>&nbsp;LinkedIn</span>
+    </a>
+  </span>
+</p>
+
+<br>
 
 ## Focus
-- Human-AI co-authoring: interfaces, workflows, and evaluation
-- LLM tooling: controllable structured generation, deterministic authoring, developer-facing UX
-- Applied prototypes: rapid system demos across web and Apple platforms
 
-## Selected work
-- **EXLang**: Human-AI co-authoring via structured, deterministic authoring (DSL + UI). Repo: <link> | Demo: <link>
-- **newtex-cli**: Template-driven LaTeX project generator for reproducible academic workflows. Repo: https://github.com/sg98ccy/newtex-cli
-- **LiDAR-Vision**: iOS LiDAR prototype for on-device capture and interactive visualisation. Repo: https://github.com/sg98ccy/LiDAR-Vision
-- **watchOS-playground**: watchOS experimentation sandbox for sensor-driven interactions. Repo: https://github.com/sg98ccy/watchOS-playground
-- **realtime-coreml-demo**: real-time CoreML demo scaffold. Repo: https://github.com/sg98ccy/realtime-coreml-demo
-- **iOS-playground**: iOS experimentation repo for rapid prototyping. Repo: https://github.com/sg98ccy/iOS-playground
+- Human-AI co-authoring interfaces: control, trust, error recovery, evaluation
+- LLM tooling: structured generation, deterministic authoring, developer-facing UX
+- Applied prototyping: web and Apple platforms (iOS, watchOS), research-grade demos
 
-## Research interests
-- Co-authoring interaction design (human control, trust, error recovery)
-- Structured generation and constrained decoding for tool-using LLMs
-- Evaluation: task success, edit distance, latency, cognitive load, and reproducibility
+---
+
+## Selected Work
+
+### Human-AI Co-Authoring and Tooling
+- **EXLang**: Structured, deterministic co-authoring workflow (DSL + UI).  
+  - Repo: WIP (link soon)
+
+- **NewTex-CLI**: Template-driven LaTeX project generator for reproducible academic workflows.  
+  - Repo: https://github.com/sg98ccy/newtex-cli
+
+### Apple Platform Prototypes
+- **LiDAR-Vision**: iOS app utilising LiDAR for on-device capture and interactive visualisation.  
+  - Repo: https://github.com/sg98ccy/LiDAR-Vision
+  - App Store link: https://apps.apple.com/sg/app/lidar-vision/id6758212656
+
+- **watchOS-playground**: watchOS experimentation sandbox for sensor-driven interactions.  
+  - Repo: https://github.com/sg98ccy/watchOS-playground
+
+- **iOS-playground**: iOS experimentation repo for rapid prototyping.  
+  - Repo: https://github.com/sg98ccy/iOS-playground
+
+### Computational Biology
+- **protein-folding**: Protein folding with ESM3 Model
+  - Repo: WIP (link soon)
+
+### Geospatial Analysis
+- **open-access-plan**: Hierarchical chorophleth heatmap
+  - Repo: WIP (link soon)
+
+### Machine Learning
+- **realtime-coreml-demo**: Real-time CoreML demo scaffold.  
+  - Repo: https://github.com/sg98ccy/realtime-coreml-demo
+
+---
+
+## Research Interests
+
+- Co-authoring interaction design: user control, transparency, patch-based workflows
+- Structured generation: constraints, tool calling, deterministic IRs and editors
+- Evaluation: task success, edit distance, latency, cognitive load, reproducibility
+
+---
 
 ## Now
-- Building: <current project in 1 line>
-- Exploring: <1 to 2 research questions>
-- Open to: research collaborations, industry problems in LLM tooling, applied HCI systems work
 
-## Contact
-- Website: https://integratedai.sg/
-- LinkedIn: https://www.linkedin.com/in/jackson-chai-chang-yue/
-- Email: <optional>
+- Building: EXLang
+- Exploring: Evaluation for co-authoring tools
+- Open to: collaborations on Human-AI co-authoring and LLM tooling (research and applied)
+
+---
+
+<p align="center">
+  <sub>
+    Last updated: 3 March 2026
+  </sub>
+</p>
