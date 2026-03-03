@@ -85,7 +85,7 @@
 ## Now
 
 - Building: EXLang
-- Exploring: Evaluation for co-authoring tools
+- Exploring: evaluation for Human-AI co-authoring (edit traces, patch quality, cognitive load)
 - Open to: collaborations on Human-AI co-authoring and LLM tooling (research and applied)
 
 ---
