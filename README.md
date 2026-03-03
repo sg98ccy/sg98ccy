@@ -91,6 +91,11 @@
 ---
 
 <p align="center">
+  <img src="assets/icons/computer.gif" alt="Computer" width="150" height="150"><br>
+  <sub><i>See you around!</i></sub>
+</p>
+
+<p align="center">
   <sub>
     Last updated: 3 March 2026
   </sub>
