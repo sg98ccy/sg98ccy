@@ -8,85 +8,53 @@
 <p align="center">
   PhD in Computer Science (Human-Computer Interaction)<br>
   Founder at IntegratedAI Pte. Ltd.<br>
-  Human-AI Co-Authoring • LLM Tooling • Reproducible Workflows
-</p>
-
-<p align="center">
-  <span style="display: inline-flex; gap: 24px; align-items: center;">
-    <a href="https://integratedai.sg/" target="_blank" rel="noopener noreferrer">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="assets/icons/website-dark.svg">
-        <img src="assets/icons/website.svg" alt="Website" height="18" style="vertical-align: middle;">
-      </picture>
-      <span>&nbsp;Website</span>
-    </a>
-    <a href="https://www.linkedin.com/in/jackson-chai-chang-yue/" target="_blank" rel="noopener noreferrer">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="assets/icons/brand-linkedin-dark.svg">
-        <img src="assets/icons/brand-linkedin.svg" alt="LinkedIn" height="18" style="vertical-align: middle;">
-      </picture>
-      <span>&nbsp;LinkedIn</span>
-    </a>
-  </span>
+  Space Technology • Artificial Intelligence • Human-Computer Interaction
 </p>
 
 <br>
 
 ## Focus
 
-- Human-AI co-authoring interfaces: control, trust, error recovery, evaluation
-- LLM tooling: structured generation, deterministic authoring, developer-facing UX
-- Applied prototyping: web and Apple platforms (iOS, watchOS), research-grade demos
+- Space technology: lunar terrain mapping, rover mission planning, and simulation.
+- Artificial intelligence: AI-assisted navigation, route comparison, and planning.
+- Human-computer interaction: tools for exploring 3D terrain and working with AI.
 
 ---
 
-## Selected Work
+## Current Projects
 
-### Human-AI Co-Authoring and Tooling
-- **EXLang**: Structured, deterministic co-authoring workflow (DSL + UI).  
-  - Repo: WIP (link soon)
+At IntegratedAI, I am working on four projects for lunar exploration. Their repositories are not public yet as they are still work-in-progress.
 
-- **NewTex-CLI**: Template-driven LaTeX project generator for reproducible academic workflows.  
-  - Repo: https://github.com/sg98ccy/newtex-cli
+- **Lunar Explorer**: AI-assisted lunar navigation to explore terrain, compare routes, and plan rover missions in 3D.
+- **VR rover simulation**: An immersive environment for practising rover operations and exploring lunar terrain before a mission.
+- **Lunar Base Builder**: A 3D planning tool for arranging equipment and infrastructure on lunar terrain.
+- **Terrain Studio**: A tool for exploring Earth test sites and comparing their terrain with lunar reference areas in 3D.
 
-### Apple Platform Prototypes
-- **LiDAR-Vision**: iOS app utilising LiDAR for on-device capture and interactive visualisation.  
-  - Repo: https://github.com/sg98ccy/LiDAR-Vision
-  - App Store link: https://apps.apple.com/sg/app/lidar-vision/id6758212656
+---
 
-- **watchOS-playground**: watchOS experimentation sandbox for sensor-driven interactions.  
-  - Repo: https://github.com/sg98ccy/watchOS-playground
+## Public Repositories
 
-- **iOS-playground**: iOS experimentation repo for rapid prototyping.  
-  - Repo: https://github.com/sg98ccy/iOS-playground
+### Space Technology
 
-### Computational Biology
-- **protein-folding**: Protein folding with ESM3 Model
-  - Repo: WIP (link soon)
+- [**space-tech-lab**](https://github.com/sg98ccy/space-tech-lab): Interactive 3D ion-thruster visualisation with a guided explanation of how it works.
 
-### Geospatial Analysis
-- **open-access-plan**: Hierarchical chorophleth heatmap
-  - Repo: WIP (link soon)
+### Agent Skills
 
-### Machine Learning
-- **realtime-coreml-demo**: Real-time CoreML demo scaffold.  
-  - Repo: https://github.com/sg98ccy/realtime-coreml-demo
+Reusable skills for AI agents:
+
+- [**clear-writing**](https://github.com/sg98ccy/clear-writing): Guidance for drafting, revising, and reviewing clear writing while preserving meaning and evidence.
+- [**coding-practices**](https://github.com/sg98ccy/coding-practices): Guidance for implementation, refactoring, and code review, with clear responsibilities and data ownership.
+- [**hci**](https://github.com/sg98ccy/hci): Source-backed human-computer interaction guidance for designing and reviewing interfaces, AI interactions, and usability studies.
+- [**research-paper-writing**](https://github.com/sg98ccy/research-paper-writing): Guidance for writing research papers.
 
 ---
 
 ## Research Interests
 
-- Co-authoring interaction design: user control, transparency, patch-based workflows
-- Structured generation: constraints, tool calling, deterministic IRs and editors
-- Evaluation: task success, edit distance, latency, cognitive load, reproducibility
-
----
-
-## Now
-
-- Building: EXLang
-- Exploring: evaluation for Human-AI co-authoring (edit traces, patch quality, cognitive load)
-- Open to: collaborations on Human-AI co-authoring and LLM tooling (research and applied)
+- Space technology and lunar exploration.
+- 3D terrain visualisation and simulation.
+- Embodied AI and autonomous robotic systems.
+- Rover navigation and mission planning.
 
 ---
 
@@ -97,6 +65,6 @@
 
 <p align="center">
   <sub>
-    Last updated: 3 March 2026
+    Last updated: 9 November 2026
   </sub>
 </p>
